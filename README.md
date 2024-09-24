@@ -25,7 +25,7 @@
 
 <img align="centre" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-<h1 align="centre">Connect with me<img align="centre" alt="Coding" width="50" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
+<h1 align="centre">Connect with me:<img align="centre" alt="Coding" width="100" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
 </h1>
 
 <h3 align="center">Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms:</h3>
