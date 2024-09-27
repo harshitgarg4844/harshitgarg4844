@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi! <img align="centre" alt="Coding" width="50" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm Harshit Garg</h1>
-<h2 align="center">A Passionate full Stack Developer<img align="centre" alt="Coding" width="40" src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif"></h2>
+<h2 align="center">A Passionate Software Developer<img align="centre" alt="Coding" width="40" src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif"></h2>
  <h1 align="left">About me :</h1>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
@@ -15,9 +15,9 @@
 
 - 🔭 Passion for Web Development🌐 and a commitment to learn Data Structures and Algorithms(DSA).
 
-- ⚡ I’m currently learning **Java,html,css,javascript**
+- ⚡ I’m currently learning **Java,Html,Css,Javascript,React**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **Real World Projects**
 
 - 💬 Ask me about **MERN,CLOUD**
 
