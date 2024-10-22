@@ -15,7 +15,7 @@
 
 - 🔭 Passion for Web Development🌐 and a commitment to learn Data Structures and Algorithms(DSA).
 
-- ⚡ I’m currently learning **Java,Html,Css,Javascript,React**
+- ⚡ I’m skilled in **Java,Html,Css,Javascript,React**
 
 - 👯 I’m looking to collaborate on **Real World Projects**
 
