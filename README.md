@@ -11,11 +11,11 @@
 
 
 
-- 🌿 Hi!, I'm Harshit, currently a 3rd-year CSE student @MietDS'26
+- 🌿 Hi!, I'm Harshit, Currently a 3rd-year CSE student @MIETDS'26
 
 - 🔭 Passion for Web Development🌐 and a commitment to learn Data Structures and Algorithms(DSA).
 
-- ⚡ I’m skilled in **Java,Html,Css,Javascript,React**
+- ⚡ I’m sharping my skills in **Java, Spring Boot & React.js**
 
 - 👯 I’m looking to collaborate on **Real World Projects**
 
