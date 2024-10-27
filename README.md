@@ -28,13 +28,12 @@
 <h1 align="centre">Connect with me:<img align="centre" alt="Coding" width="100" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
 </h1>
 
-<h3 align="center">Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms:</h3>
+<h3 align="center">Hello,Coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms:</h3>
 
-<p align="left">
+<p align="centre">
 <a href="https://twitter.com/harshitgarg28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitgarg28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-garg-851328289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-garg-851328289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/harshitgarg_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitgarg_28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshitgarg28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitgarg28" height="30" width="40" /></a>
 </p>
 <img align="centre" alt="Coding" width="1500" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
